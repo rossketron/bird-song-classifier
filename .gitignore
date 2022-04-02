@@ -1,1 +1,3 @@
-data/
+data/train_audio/
+data/test_soundscapes/
+.ipynb_checkpoints
